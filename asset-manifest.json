@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/DiaryN/static/js/main.1b087b3c.js",
-    "index.html": "/DiaryN/index.html",
-    "main.1b087b3c.js.map": "/DiaryN/static/js/main.1b087b3c.js.map"
+    "main.js": "/Diary/static/js/main.1b087b3c.js",
+    "index.html": "/Diary/index.html",
+    "main.1b087b3c.js.map": "/Diary/static/js/main.1b087b3c.js.map"
   },
   "entrypoints": [
     "static/js/main.1b087b3c.js"
